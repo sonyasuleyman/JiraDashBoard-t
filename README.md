@@ -1,2 +1,2 @@
-# JiraDashBoard-t
+# JiraDashBoard
 JiraDashBoard Demo Project - MERN STACK
